@@ -53,6 +53,7 @@
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/centos_icon.png",
         "displayName": "CentOS",
         "name": "centos",
+        "version": "latest",
         "location": "https://hub.docker.com/_/centos",
         "type": "docker"
     }
