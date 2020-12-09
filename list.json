@@ -11,10 +11,10 @@
         "type": "app"
     },
     {
-        "description": "The official Pi-hole Docker image from pi-hole.net ",
+        "description": "The official Pi-hole Docker image from pi-hole.net",
         "repository": "dockerhub",
         "arch": "amd64",
-        "icon": "https://pi-hole.github.io/graphics/Vortex/Vortex_with_text.png,
+        "icon": "https://pi-hole.github.io/graphics/Vortex/Vortex_with_text.png",
         "displayName": "PiHole",
         "name": "pihole/pihole",
         "version": "latest",
