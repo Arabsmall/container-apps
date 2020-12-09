@@ -18,7 +18,6 @@
         "displayName": "PiHole",
         "name": "pihole/pihole",
         "version": "latest",
-        "location": "https://hub.docker.com/r/pihole/pihole,
         "type": "docker"
     },
     {
