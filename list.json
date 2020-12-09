@@ -100,5 +100,5 @@
         "version": "latest",
         "location": "https://hub.docker.com/r/itzg/minecraft-server",
         "type": "docker"
-    },
+    }
 ]
