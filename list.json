@@ -11,6 +11,17 @@
         "type": "docker"
     },
     {
+        "description": "Minecraft server with select-able version",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/minecraft_icon.png",
+        "displayName": "Minecraft Server",
+        "name": "itzg/minecraft-server",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/itzg/minecraft-server",
+        "type": "docker"
+    },
+    {
         "description": "Debian is a Linux distribution that is composed entirely of free and open-source software (most of which is under the GNU General Public License) and packaged by a group called the Debian project.",
         "repository": "qnap",
         "inspect": "{}",
@@ -44,6 +55,50 @@
         "name": "centos",
         "version": "7",
         "location": "https://hub.docker.com/_/centos",
+        "type": "docker"
+    },
+        {
+        "description": "Minecraft server with select-able version",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/minecraft_icon.png",
+        "displayName": "Minecraft Server",
+        "name": "itzg/minecraft-server",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/itzg/minecraft-server",
+        "type": "docker"
+    },
+        {
+        "description": "Minecraft server with select-able version",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/minecraft_icon.png",
+        "displayName": "Minecraft Server",
+        "name": "itzg/minecraft-server",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/itzg/minecraft-server",
+        "type": "docker"
+    },
+        {
+        "description": "Minecraft server with select-able version",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/minecraft_icon.png",
+        "displayName": "Minecraft Server",
+        "name": "itzg/minecraft-server",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/itzg/minecraft-server",
+        "type": "docker"
+    },
+        {
+        "description": "Minecraft server with select-able version",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/minecraft_icon.png",
+        "displayName": "Minecraft Server",
+        "name": "itzg/minecraft-server",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/itzg/minecraft-server",
         "type": "docker"
     },
 ]
